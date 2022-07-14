@@ -1,3 +1,4 @@
+//leader is an element which is larger than all the elements to their left, for solving this we start from leftmost and do a1,a2.
 #include <bits/stdc++.h>
 using namespace std;
 void lead(int a[],int n){
