@@ -16,7 +16,7 @@ if(opt==1)
 mid=shift;
 else
 mid=n-shift;
-rev(a,0,mid-1);
+rev(a,0,mid-1);//shifting algorithm
 rev(a,mid,n-1);
 rev(a,0,n-1);
 for(int i=0;i<n;i++)
