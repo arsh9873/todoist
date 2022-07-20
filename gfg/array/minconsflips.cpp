@@ -16,6 +16,8 @@ for(int i=1;i<n;i++){
         flip=0;
     }
 }
+if(a[n-1]!=hit)
+cout<<n-1;
 }
 int main()
 {
