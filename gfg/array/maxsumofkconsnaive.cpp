@@ -1,4 +1,5 @@
 //for each element add to it the following k elements and then max sum
+//O((n-k)*k)
 int qn(int a[],int n){
     int k,curr=0,res=0;
     cin>>k;
