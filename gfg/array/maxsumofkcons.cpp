@@ -1,6 +1,8 @@
 //find max sum of k consecutive elements
 //1 8 30 -5 20 k=3
 //op 45
+//this technique also works for the question
+//given a sum and key k, check if a subarray exists with the given sum
 int fn(int a[],int n){
     int k;
     cin>>k;
